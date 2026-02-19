@@ -1,0 +1,11 @@
+node_modules/
+.env
+artifacts/
+cache/
+dist/
+typechain-types/
+deployments/*.json
+coverage/
+coverage.json
+frontend/.next/
+frontend/node_modules/
